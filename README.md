@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=6C7086&center=true&vCenter=true&multiline=false&width=680&lines=Backend+engineer+·+Go+convert+·+Actor-model+believer;Neovim+daily+driver.+tmux+or+die.;EXPLAIN+ANALYZE+is+my+love+language.;Currently+on+notice+—+hunting+for+the+next+thing." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=6C7086&center=true&vCenter=true&multiline=false&width=680&lines=Backend+engineer+%7C+Go+convert+%7C+Actor-model+believer;Neovim+daily+driver.+tmux+or+die.;EXPLAIN+ANALYZE+is+my+love+language.;Currently+on+notice+--+hunting+for+the+next+thing." alt="typing" />
   </a>
 </p>
 
@@ -131,20 +131,17 @@ Play Store Install Referrer attribution — organic / paid / referral. Kafka fan
 ## GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dev-Harsh0218&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Harsh0218&theme=default" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev-Harsh0218&theme=default" />
+</p>
+
+<p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Harsh0218&hide_border=true" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-Harsh0218&theme=default" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Harsh0218&layout=compact&hide_border=true&langs_count=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Harsh0218&hide_border=true&area=true&custom_title=Contribution+Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Harsh0218&no-frame=true&column=7&margin-w=10&title=Commits,Repositories,PullRequest,Followers,Issues,Stars,MultipleLang" />
+  <img src="https://ghchart.rshah.org/6C7086/Dev-Harsh0218" alt="Contribution graph" />
 </p>
 
 ---
