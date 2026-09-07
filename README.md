@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=6C7086&center=true&vCenter=true&multiline=false&width=680&lines=Backend+engineer+%7C+Go+convert+%7C+Actor-model+believer;Neovim+daily+driver.+tmux+or+die.;EXPLAIN+ANALYZE+is+my+love+language.;Currently+on+notice+--+hunting+for+the+next+thing." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=6C7086&center=true&vCenter=true&multiline=false&width=680&lines=Backend+engineer+%7C+Go+convert+%7C+Actor-model+believer;Neovim+daily+driver.+tmux+or+die.;EXPLAIN+ANALYZE+is+my+love+language.;Curious+about+distributed+systems+and+the+AI+stack." alt="typing" />
   </a>
 </p>
 
@@ -11,14 +11,14 @@
   <a href="https://linkedin.com/in/bhardwajharsh1802"><img src="https://img.shields.io/badge/LinkedIn-bhardwajharsh1802-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://dev-harsh-bhardwaj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-dev--harsh--bhardwaj.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Noida%20NCR-3B82F6?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Immediate-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-22C55E?style=flat-square" />
 </p>
 
 ---
 
 ```
 $ whoami
-backend engineer · noida · on notice · hunting for the next thing
+backend engineer · noida · lives in a terminal
 
 $ cat ~/.currently_doing
 Go pipelines · high-throughput APIs · occasionally reaching for Erlang
@@ -33,11 +33,9 @@ embeddings, agents. Poking under the hood before I ship anything here.
 
 ## Where I am right now
 
-- **On notice** (30 days). Actively looking for **SDE1 / SDE2** roles — backend-leaning or full-stack.
 - **Currently at** Astro Arun Pandit. Built the **Kundali Engine** (Node + Swiss Ephemeris — 50K+ req/day at sub-250ms), a Go-based **real-time data lake** (100K+ events/day, wired straight off the existing Kafka pipeline to skip a Lambda hop I didn't want to pay for), and drove ~10x latency wins on legacy APIs (one `EXPLAIN ANALYZE` did most of the heavy lifting — turns out most "scale problems" are query problems).
 - **Location:** Noida NCR. Open to remote or relocation for the right team.
-
-If you're hiring — or know someone who is — DM / email above.
+- **Looking for the next thing** — SDE1 / SDE2 roles, backend-leaning or full-stack. If you're hiring or know someone building interesting stuff, my inbox is above.
 
 ---
 
