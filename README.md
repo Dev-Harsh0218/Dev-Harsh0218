@@ -101,12 +101,12 @@ Runs at **200+ users, 50+ groups, 1M+ messages moved in ~2 months**. Zero pages 
 
 **What I'd do differently:** message persistence went straight to Postgres. Should've evaluated a log-structured store on day one instead of "we'll fix it later."
 
-### The most fun to demo — [Ads SDK Platform](https://ads-sdk-demo.vercel.app)
+### The one I've built the most surface area on — [Aduo](https://github.com/Dev-Harsh0218/aduo)
 > Kotlin · Node.js · React
 
-Two-sided AdMob-like thing. Publishers drop in a Kotlin SDK (`showBanner()`, `showInterstitial()`, `showPopup()`), advertisers manage from a React console. Async impression/click billing across multi-tenant orgs. **[Live demo](https://ads-sdk-demo.vercel.app)** — kick the tires.
+Two-sided AdMob-like thing. Publishers drop in a Kotlin SDK (`showBanner()`, `showInterstitial()`, `showPopup()`), advertisers manage from a React console. Async impression/click billing across multi-tenant orgs.
 
-Split across [SDK](https://github.com/Dev-Harsh0218/adsSdkKotlin) · [Backend](https://github.com/Dev-Harsh0218/ads_sdk_backend) · [Console](https://github.com/Dev-Harsh0218/ads_sdk_frontend) · [Test app](https://github.com/Dev-Harsh0218/adsSdkTestingApp).
+Split across [SDK](https://github.com/Dev-Harsh0218/aduo-sdk-kotlin) · [Backend](https://github.com/Dev-Harsh0218/aduo-backend) · [Console](https://github.com/Dev-Harsh0218/aduo-console) · [Test app](https://github.com/Dev-Harsh0218/aduo-test-app). _(Live demo re-deploying.)_
 
 ### The one that taught me the most about attribution — [AppAnalytics](https://github.com/Dev-Harsh0218/AppAnalyticsPanel)
 > Java Android SDK · Node · Kafka · React
