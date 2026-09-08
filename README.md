@@ -106,7 +106,7 @@ Runs at **200+ users, 50+ groups, 1M+ messages moved in ~2 months**. Zero pages 
 
 Two-sided AdMob-like thing. Publishers drop in a Kotlin SDK (`showBanner()`, `showInterstitial()`, `showPopup()`), advertisers manage from a React console. Async impression/click billing across multi-tenant orgs.
 
-Split across [SDK](https://github.com/Dev-Harsh0218/aduo-sdk-kotlin) · [Backend](https://github.com/Dev-Harsh0218/aduo-backend) · [Web (Turborepo monorepo)](https://github.com/Dev-Harsh0218/aduo-web) · [Test app](https://github.com/Dev-Harsh0218/aduo-test-app). **[Live marketing](https://marketing-mu-amber.vercel.app)** · **[publisher panel](https://publisher-rust.vercel.app)** (both live).
+Split across [SDK](https://github.com/Dev-Harsh0218/aduo-sdk-kotlin) · [Backend](https://github.com/Dev-Harsh0218/aduo-backend) · [Web monorepo (Turborepo)](https://github.com/Dev-Harsh0218/aduo-web) · [Test app](https://github.com/Dev-Harsh0218/aduo-test-app). All 3 web surfaces live: **[marketing](https://marketing-mu-amber.vercel.app)** · **[advertiser](https://advertiser-xi.vercel.app)** · **[publisher](https://publisher-rust.vercel.app)** — sign in with any email to explore.
 
 ### The one that taught me the most about attribution — [AppAnalytics](https://github.com/Dev-Harsh0218/AppAnalyticsPanel)
 > Java Android SDK · Node · Kafka · React
